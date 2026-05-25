@@ -16,5 +16,10 @@ Game Rule
 - The game will have a total of 4 levels. In each level, there will be 2 types of waves: normal waves and huge waves. A huge wage will spawn a flag zombie and a lot of other zombies in a short time. After finishing your level, you can choose to play the next level or not. If you reach level 4 and finish it, meaning you have won every level, the game will force you to stop and return to level 1.
 - If you fail, you can try to play them again or not play. If you choose to quit, then the game window will force close, and when you open the game again, it will reset to level 1, so try to win as much as possible.
 
+UML
+
+
+
+
 
 The gameplay currently has 4 levels and only 4 plants available. We will modify and upgrade them for more details in the near future. 
