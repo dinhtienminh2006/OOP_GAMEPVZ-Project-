@@ -7,6 +7,7 @@ Member:
 
 - Inspired by the original game PVZ, we have decided to make a small clone of this game as our final project. The project mainly uses the programming language JAVA and some HTML helping for UI design
 - Apply some OOP concepts and JAVAFX implementation
+
 Game Rule
 - The game has 4 basic plants: sunflower, pea shooter, ice pea shooter and wallnut. Each plants have different sun cost. Besides that, there is a shovel to help you dig away the plant in the tile and return the sun's cost.
 - When you place the plant in the spot, your total sun cost will be minus the plant's sun cost. When the total equals 0, you can not buy plants and have to collect them from sunflowers or random sunflowers that appear in the ground.
